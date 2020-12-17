@@ -4,7 +4,7 @@
 --------------------------
 Instructions:
 
-1. `cd/Kruskals/kruskal/` 
+1. Go to `cd/Kruskals/kruskal/` 
 2. execute by typing `make`.
 3. Move the `*.bin` files from `datasets` directory into `kruskal/scripts/` directory.
 4. make `run.sh` an executable by running `chmod +x run.sh`
